@@ -1,0 +1,12 @@
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\bin\Debug\ogrenci_kayıt_sistemi.exe.config
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\bin\Debug\ogrenci_kayıt_sistemi.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\bin\Debug\ogrenci_kayıt_sistemi.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.csprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.Form1.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.Properties.Resources.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.csproj.GenerateResource.Cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.Form2.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.Form3.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\ogrenci_kayıt_sistemi\ogrenci_kayıt_sistemi\obj\Debug\ogrenci_kayıt_sistemi.Form4.resources
